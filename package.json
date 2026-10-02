@@ -1,0 +1,18 @@
+{
+  "name": "ai-agents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@openai/agents": "^0.18.0",
+    "dotenv": "^18.0.5",
+    "zod": "^4.6.5"
+  }
+}
